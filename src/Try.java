@@ -5,7 +5,7 @@ public class Try {
         public static void show(){
         greeting(new imple()) ; }
         public static void greeting(imple simple){
-            simple.main(63);
+            simple.main(61);
     }
 
 }

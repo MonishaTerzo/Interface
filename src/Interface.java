@@ -1,3 +1,3 @@
 public interface  Interface {
-    public void main(int n);
+    public void main(int k);
 }
